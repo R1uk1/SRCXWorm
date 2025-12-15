@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vboxuser\\Desktop\\XWorm_V5.6 SRC By HackersBit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@HackersBit.csproj|c:\\users\\vboxuser\\desktop\\xworm_v5.6 src by hackersbit\\xworm_v5.6_@hackersbit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@HackersBit.csproj|solutionrelative:xworm_v5.6_@hackersbit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@HackersBit.csproj|c:\\users\\vboxuser\\desktop\\xworm_v5.6 src by hackersbit\\xworm_v5.6_@hackersbit.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6252DB2B-25F5-45E0-A1BB-BF775972E993}|XWorm_V5.6_@HackersBit.csproj|solutionrelative:xworm_v5.6_@hackersbit.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XWorm_V5.6_@HackersBit.csproj",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Desktop\\XWorm_V5.6 SRC By HackersBit\\XWorm_V5.6_@HackersBit.csproj",
+              "RelativeDocumentMoniker": "XWorm_V5.6_@HackersBit.csproj",
+              "ToolTip": "C:\\Users\\vboxuser\\Desktop\\XWorm_V5.6 SRC By HackersBit\\XWorm_V5.6_@HackersBit.csproj",
+              "RelativeToolTip": "XWorm_V5.6_@HackersBit.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T21:50:58.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XWorm_V5.6_@HackersBit",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Desktop\\XWorm_V5.6 SRC By HackersBit\\XWorm_V5.6_@HackersBit.csproj",
+              "RelativeDocumentMoniker": "XWorm_V5.6_@HackersBit.csproj",
+              "ToolTip": "C:\\Users\\vboxuser\\Desktop\\XWorm_V5.6 SRC By HackersBit\\XWorm_V5.6_@HackersBit.csproj",
+              "RelativeToolTip": "XWorm_V5.6_@HackersBit.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T21:44:02.754Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
